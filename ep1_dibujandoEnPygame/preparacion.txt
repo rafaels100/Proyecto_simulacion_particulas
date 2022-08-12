@@ -1,0 +1,2 @@
+1- Chequear que funcione el audio
+2- Crear los scripts a utilizar de entrada, para no tener que andar creandolos y guardandolos durante la filmacion. Tenerlos abiertos tambien.

@@ -1,0 +1,14 @@
+---------------------------------------Episodio 0: Introduccion---------------------------------------------
+------------------------------------------------------------------------------------------------------------
+-------Objetivo--------
+La idea es presentar el tutorial, mostrando el resultado final (jugando un poco con los parametros del mismo), y luego presentar los episodios que se vienen y las cosas que va a cubrir cada uno.
+Tambien decir las librerias que vamos a estar utilizando, los conceptos que va a involucrar cada episodio.
+Dar credito a las personas que inspiraron esta serie ?
+RECORDAR mostrar la posibilidad de pausar y continuar la simulacion.
+Agregar vectores?
+
+-------Pasos-------
+1- Preparar el codigo y dejarlo listo para presentar, limpiando cosas extra (librerias que no se usan o comentarios innecesarios).
+2- Grabar las respuestas del programa a los cambios de parametros propuestos (cambio de masa, cambio de velocidades iniciales).
+3- Separar la produccion del codigo en los chunks mas importantes, procurando no pasar mas de 10 minutos de por episodio.
+4- Pensar en los conceptos que involucraran los episodios de la playlist. 
